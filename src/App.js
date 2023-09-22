@@ -7,7 +7,6 @@ function App() {
         <p>
          my new site
         </p>
-        
       </header>
     </div>
   );
